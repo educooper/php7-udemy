@@ -6,8 +6,12 @@ echo $nome1;
 
 unset($nome1);
 
-< /br>
+echo "< /br>";
 
 echo $nome1;
+
+if (isset($nome1)){
+  echo $nome1;
+}
 
 ?>
