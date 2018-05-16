@@ -19,11 +19,11 @@ array(
 //Inicio: Diretor Financeiro
   array(
     'nome_cargo' => 'Diretor Financeiro',
-    'nome_cargo' => array(
+    'subordinados' => array(
       //inicio: Gerente de Contas a Pagar
       array(
         'nome_cargo' => 'Gerente de Contas a Pagar',
-        'nome_cargo' => array(
+        'subordinados' => array(
         //Inicio: Supervisor de Pagamentos
         array(
           'nome_cargo' => 'Supervisor de Pagamentos'
@@ -32,18 +32,18 @@ array(
         )
       ),
     //Termino: Gerente de Contas a Pagar
-    //Inicio: Gerente de Compras
+    //Inicio: Gerente de Compras8
       array(
         'nome_cargo' => 'Gerente de Compras',
         'subordinados' => array(
           //Inicio: Supervisor de Suprimentos
-            array(
+            array(8
               'nome_cargo' => 'Supervisor de Suprimentos'
             )
-            //Termino; Supervisor de Pagamentos
+            //Termino; Supervisor de Pagamentos8
         )
       )
-    //Termino: Gerente de Compras
+    //Termino: Gerente de Compras8
 
 )
 //Termino: Diretor Financeiro

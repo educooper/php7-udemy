@@ -1,0 +1,30 @@
+A lista e os descontos
+
+Desobedecer pai ou mãe - R$ 3
+Tirar nota baixa na escola/inglês - R$ 2
+Ofender, xingar, brigar e bater - R$ 2
+Faltar, atrasar ou reclamar para ir à escola - R$ 1
+Faltar, atrasar ou reclamar para ir ao inglês - R$ 1
+Faltar, atrasar ou reclamar para ir à natação - R$ 1
+Faltar, atrasar ou reclamar para ir à missa - R$ 1
+Não fazer aula de natação - R$ 1
+Não fazer as tarefas - R$ 1
+Não almoçar/jantar - R$ 0,75
+Não colocar o cinto de segurança - R$ 0,75
+Não usar óculos - R$ 0,50
+Não usar aparelho - R$ 0,50
+Deixar roupas, calçados, toalhas largados - R$ 50
+Deixar as luzes acesas - R$ 0,50
+Deixar brinquedos largados - R$ 0,50
+Deixar os pratos na mesa - R$ 0,50
+Deixar material largado - R$ 0,50
+Deixar a porta da geladeira aberta - R$ 0,50
+Deixar a TV, Sky e PS3 ligados - R$ 0,50
+Deixar torneiras ou chuveiros abertos - R$ 0,50
+Deixar as portas, gavetas dos armários abertas - R$ 0,50
+Não escovar os dentes - R$ 0,25
+Não tomar banho - R$ 0,25
+Não puxar descarga - R$ 0,25
+Ir de madrugada para a cama dos pais - R$ 0,25
+Pular no sofá/cadeiras - R$ 0,25
+Comer na sala de TV/estar - R$ 0,25
